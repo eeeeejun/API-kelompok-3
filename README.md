@@ -10,4 +10,3 @@
 ![Screenshot 2024-03-14 202634](https://github.com/eeeeejun/API-kelompok-3/assets/144088553/6595918a-96fe-4cac-aec7-f1f7049c4701)
 ![Screenshot 2024-03-14 202654](https://github.com/eeeeejun/API-kelompok-3/assets/144088553/4a706067-1bcb-4d4d-bb57-800a4f75393e)
 ![Screenshot 2024-03-14 202707](https://github.com/eeeeejun/API-kelompok-3/assets/144088553/1d6ddbd3-910e-4b7b-9ea0-7fe62a2f4245)
-![va ukt](https://github.com/eeeeejun/API-kelompok-3/assets/144088553/ee2bd8b4-af68-4c11-af8f-d2aa2ae08014)
